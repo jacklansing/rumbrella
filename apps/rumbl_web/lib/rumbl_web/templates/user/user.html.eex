@@ -1,0 +1,2 @@
+<%# Reuseable Template for showing the User info %>
+<strong><%= first_name(@user) %></strong> (<%= @user.id %>)
